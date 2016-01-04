@@ -131,7 +131,7 @@ Options:
        --repo repo           Repository name.
        --host host           Repository host. Default: 'github'.
        --branch branch       Repository branch. Default: 'master'.
-       --token token         API token.
+       --token token         Codecov API token.
        --style style         Badge style. Default: 'flat'.
        --format format       Badge format. Default: 'svg'.
 ```
