@@ -1,0 +1,23 @@
+{
+	"boolean": [
+		"help",
+		"version"
+	],
+	"string": [
+		"owner",
+		"repo",
+		"host",
+		"branch",
+		"token",
+		"style",
+		"format"
+	],
+	"alias": {
+		"help": [
+			"h"
+		],
+		"version": [
+			"V"
+		]
+	}
+}
