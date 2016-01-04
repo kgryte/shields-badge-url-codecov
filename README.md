@@ -2,7 +2,7 @@ Codecov Badge URLs
 ===
 [![NPM version][npm-image]][npm-url] [![Build Status][build-image]][build-url] [![Coverage Status][coverage-image]][coverage-url] [![Dependencies][dependencies-image]][dependencies-url]
 
-> Creates [Codecov][codecov] URLs for [Shields.io][shields] badges.
+> Creates [Shields.io][shields] badge URLs for [Codecov][codecov].
 
 
 ## Installation
@@ -20,7 +20,7 @@ var urls = require( 'shields-badge-url-codecov' );
 
 #### urls( opts )
 
-Creates [Codecov][codecov] URLs for [Shields.io][shields] badges.
+Creates [Shields.io][shields] badge URLs for [Codecov][codecov].
 
 ``` javascript
 var opts = {
