@@ -38,8 +38,8 @@ var out = urls( opts );
 ```
 
 The `function` accepts the following `options`:
-*	__owner__: repository owner (*required*)
-*	__repo__: repository name (*required*)
+*	__owner__: repository owner (*required*).
+*	__repo__: repository name (*required*).
 *	__host__: repository host; e.g., `github`, `bitbucket`, `gitlab`, etc. Default: `github`.
 *	__branch__: repository branch. Default: `master`.
 *	__token__: [Codecov][codecov] API token for private repositories.
