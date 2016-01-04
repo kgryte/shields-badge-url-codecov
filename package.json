@@ -1,6 +1,6 @@
 {
   "name": "shields-badge-url-codecov",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Creates Codecov URLs for Shields.io badges.",
   "author": {
     "name": "Athan Reines",
