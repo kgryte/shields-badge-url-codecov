@@ -121,7 +121,7 @@ $ npm install -g shields-badge-url-codecov
 ### Usage
 
 ``` bash
-Usage: shields-codecov owner=<owner> repo=<repo> [options]
+Usage: shields-codecov --owner=<owner> --repo=<repo> [options]
 
 Options:
 

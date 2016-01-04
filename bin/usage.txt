@@ -1,5 +1,5 @@
 
-Usage: shields-codecov owner=<owner> repo=<repo> [options]
+Usage: shields-codecov --owner=<owner> --repo=<repo> [options]
 
 Options:
 
