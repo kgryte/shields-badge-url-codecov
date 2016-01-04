@@ -86,7 +86,7 @@ function onUrls( error, results ) {
 	urls = results.data;
 	pkgs = getKeys( urls );
 
-	// Note: we assume all URLs are of the form: git://github.com/{{owner}}/{{repo}}
+	// Note: we assume all URLs are of the form: git://github.com/{{owner}}/{{repo}}.git
 	for ( i = 0; i < pkgs.length; i++ ) {
 		parts = url.parse( urls[ pkgs[i] ] );
 		path = parts.pathname.split( '/' );
